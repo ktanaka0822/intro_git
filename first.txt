@@ -4,3 +4,4 @@
 4回目
 git remove
 git status
+git diff addition
