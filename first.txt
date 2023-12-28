@@ -3,3 +3,4 @@
 もうちょい。
 4回目
 git remove
+git status
